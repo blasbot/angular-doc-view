@@ -25,13 +25,16 @@ npm install -g @angular/cli
 
 3. Open your terminal or command prompt, navigate to the project directory and install the project dependencies by running the following command:
 
+```shell
+npm install
+```
 Once the dependencies are installed, start the Angular development server by running the following command:
 
 ```shell
 ng serve
 ```
 
-The server should now be running and the project should be accessible on your web browser at http://localhost:4200/documents/1.
+The server should now be running and the project should be accessible on your web browser at http://localhost:4200/documents/1/pages/1.
 
 ## Pros and Cons
 ## Pros
