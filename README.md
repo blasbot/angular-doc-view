@@ -50,7 +50,6 @@ The server should now be running and the project should be accessible on your we
 - The code may require additional comments or documentation to explain some of the more complex or less intuitive features, especially for new developers or those unfamiliar with Angular.
 ## Known Issues
 There are some known issues with this project, including:
-
 - ZoomIn and Out may affect scaling of nested elements
 - The code right now use few component and will make it a bit hard to scale
 ## Solutions
